@@ -168,7 +168,6 @@ require("lazy").setup({
   },
 
   { "folke/neoconf.nvim", cmd = "Neoconf" },
-  "folke/neodev.nvim",
    -- essential plugins
   "tpope/vim-surround",-- add, delete, change surroundings (it's awesome)
   "inkarkat/vim-ReplaceWithRegister",-- replace with register contents using motion (gr + motion)
